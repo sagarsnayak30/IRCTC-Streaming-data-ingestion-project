@@ -4,7 +4,7 @@
 This industrial project builds a real-time data pipeline to ingest IRCTC train reservation data using Google Cloud Platform. Mock data is published to Pub/Sub, transformed by a Dataflow pipeline using a Python UDF stored in Cloud Storage, and finally written into BigQuery for real-time analysis and reporting.
 
 ## Architecture
-![Project Architecture](walmart_data_ingestion_architecture.jpeg)
+![Project Architecture](irctc_streaming_architecture.jpeg)
 
 ## Technology Used
 1. Programming language - Python
